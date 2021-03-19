@@ -3,9 +3,8 @@ body {
   font-family: sans-serif;
 }
 
-.home body {
+.intro {
   text-align: center;
-  font-family: sans-serif;
 }
 
 h1 {
@@ -17,8 +16,10 @@ h1 {
 }
 
 .home img {
-  width: 500px;
+  width: 50%;
   float: left;
+  margin: 5%;
+  border: 1px solid black;
 }
 
 .home em {
@@ -28,11 +29,11 @@ h1 {
 .sidebar {
   float: right;
   width: 25%;
-  background-color: lightgreen;
-  border: 20px;
+  background-color: lightskyblue;
   border-color: black;
   padding: 20px;
-  margin: 10px;
+  margin: 5%;
+  text-align: center;
   box-sizing: border-box;
 }
 
