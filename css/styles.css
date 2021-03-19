@@ -11,7 +11,11 @@ h1 {
   font-style: italic;
 }
 
-div.image {
+img {
   width: 500px;
   float: left;
+}
+
+em {
+  font-style: normal;
 }
