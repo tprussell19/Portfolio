@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blue;
+}
+
+.intro {
+  font-style: italic;
+}
+
+div.image {
+  width: 500px;
+  float: left;
+}
