@@ -21,7 +21,8 @@ You can open this repository on your own machine by either downloading the folde
 
 ## Known Bugs
 
-Projects page currently empty
+* Projects page currently empty
+* span not rendering
 
 ## Technologies Used
 
