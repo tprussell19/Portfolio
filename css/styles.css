@@ -19,3 +19,14 @@ img {
 em {
   font-style: normal;
 }
+
+.sidebar {
+  float: right;
+  width: 25%;
+  background-color: lightgreen;
+  border: 20px;
+  border-color: black;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 10px;
+}
