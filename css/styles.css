@@ -1,22 +1,22 @@
-body {
+.home body {
   text-align: center;
   font-family: sans-serif;
 }
 
-h1 {
-  color: blue;
+.home h1 {
+color: blue;
 }
 
 .intro {
   font-style: italic;
 }
 
-img {
+.home img {
   width: 500px;
   float: left;
 }
 
-em {
+.home em {
   font-style: normal;
 }
 
