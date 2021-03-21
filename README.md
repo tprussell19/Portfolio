@@ -1,6 +1,6 @@
 # Portfolio
 
-My portfolio of coding projects, 3/19/21
+My portfolio of coding projects, 3/21/21
 
 By _Thomas Russell_
 
@@ -21,13 +21,13 @@ You can open this repository on your own machine by either downloading the folde
 
 ## Known Bugs
 
-* Projects page currently empty
-* span not rendering
+* No known bugs
 
 ## Technologies Used
 
 * HTML
 * CSS
+* Bootstrap
 * VS Code
 
 ## License
