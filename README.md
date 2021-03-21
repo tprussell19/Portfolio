@@ -4,7 +4,7 @@ My portfolio of coding projects, 3/21/21
 
 By _Thomas Russell_
 
-Check out the page via GitHub Pages! [Click here](tprussell19.github.io/Portfolio)
+Check out the page via GitHub Pages! [Click here](https://tprussell19.github.io/Portfolio)
 
 ## Description
 
